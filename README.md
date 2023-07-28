@@ -8,4 +8,4 @@
 #### 4) Assignment
 
 For more information about each project, please read the README.txt files of each subfolder.
-For Lab1-3, the subfolder PreLab contains the preparation of each lab.
+For Lab3, the subfolder PreLab contains the preparation of this lab.
