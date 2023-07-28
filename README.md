@@ -1,4 +1,4 @@
-# Exercises of Speech and Language Processing course in ECE NTUA
+# Exercises of Speech and Language Processing course in ECE NTUA (2022-2023)
 
 ## Table of contents: 
 
